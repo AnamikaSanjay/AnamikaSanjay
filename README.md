@@ -58,4 +58,9 @@ I am a busy bee buzzing in the vast hive of eBPF (Extended Berkeley Packet Filte
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AnamikaSanjay)](https://git.io/streak-stats)
 
+### 🌐 Connect With Me:
+
+- [GitHub Profile](https://github.com/ANSANJAY) - Dive deep into my world of code! 🚀
+- [My Website](https://anamikadev.com/) - Discover more about my projects, blogs, and experiences.
+
 
