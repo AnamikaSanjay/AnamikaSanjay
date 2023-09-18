@@ -34,7 +34,7 @@ I am a busy bee buzzing in the vast hive of eBPF (Extended Berkeley Packet Filte
 ### 🛠️ Tech Stack:
 
 - **eBPF**: Tracepoints, XDP, BPF Type Format (BTF), libbpf
-- **Languages**: C, Go, Python, Rust
+- **Languages**: C, Go
 - **Tools**: BCC, BPFtrace, bpftool, cilium
 - 👨‍💻 All of my projects are available at [my website](https://anamikadev.com/projects)
 
